@@ -13,4 +13,4 @@ Based on https://github.com/kulpin74/zabbix-ssl
 
 "www" subdomains are removed by the script before checking validity.
 
-Reinvent the wheel? No, I find more easy to manage new hosts from zabbix Web GUI instead of adding them to a json file for LDD. 
+Reinvent the wheel? No, I find more easy to manage new hosts from zabbix Web GUI instead of adding them to a json file for LLD.
